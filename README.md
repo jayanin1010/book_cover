@@ -29,6 +29,8 @@ Step 8:
 Publish the website in the LocalHost.
 
 PROGRAM:
+
 OUTPUT:
+
 RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
